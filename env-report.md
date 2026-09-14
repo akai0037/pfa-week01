@@ -1,1 +1,3 @@
-
+I chose Claude Code as my agent path.
+I installed Maya and Claude Code.
+There is a problem I tried to fix was the placement of the street lights and benches. I wanted them to stay next to the roads. I also wanted the street lights to be evenly spaced with a fixed distance.I asked Claude Code to change the placement code, but I still had some problems. Some street lights were placed near the edge of the map instead of next to a road, and some lights were not evenly spaced. I think the road detection may sometimes include the edge of the map as a possible road location. I asked Claude Code to find the problem and fix it, but the code became more confusing after the changes. In the end, I was not able to completely solve this problem. The park generator still works, but the street lights and benches are not always placed exactly as I wanted.
